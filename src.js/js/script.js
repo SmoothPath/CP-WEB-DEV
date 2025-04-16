@@ -83,6 +83,17 @@ else{
     console.log("Voce esta reprovado")
 }
 
+//Exercicio 7 Crie um programa que imprima o seu nome, idade, curso e ano um embaixo do outro
+
+let nome = prompt("Digite seu nome: ");
+console.log(nome)
+let idade = prompt("Digite sua idade: ");
+console.log(idade)
+let curso = prompt("Digite seu curso: ");
+console.log(curso)
+let ano = prompt("Digite o ano: ");
+console.log(ano)
+
  //Exercicio 8 crie um programa utilizando a base de texto seguinte
 
 let texto = "Tecnologia é um produto da ciência e da engenharia que envolve um conjunto de instrumentos, métodos e técnicas que visam a resolução de problemas"
