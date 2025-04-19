@@ -1,7 +1,9 @@
 1ESPF 
 Grupo SmoothPath
-Lucas Oliveira - 563617
-Gustavo Torres - 561613
-Geovana Cardoso - 566254
-Gabriel Cardoso - 562103
-Mariana Egito - 562544
+Lucas Oliveira Santos - 563617
+Gustavo Torres Caldeira - 561613
+Geovana Maria da Silva Cardoso - 566254
+Gabriel dos Santos Cardoso - 562103
+Mariana Silva do Egito Moreira - 562544
+
+link do repositório: https://github.com/SmoothPath/CP-WEB-DEV.git
