@@ -1,4 +1,3 @@
-const app = document.getElementById("app");
 
 function print(idDiv, titulo, conteudo) {
 
@@ -190,13 +189,13 @@ print("ex7","Exercício 7", `
 
  print("ex8","Exercício 8", `
   Posição de 'em': ${texto.indexOf("em")}<br>
-  Localização da última posição de 'ia': ${texto.lastIndexOf("ia", 0)}<br>
+  Localização da última posição de 'ia': ${texto.lastIndexOf("ia")}<br>
   Localização da palavra 'ciência':  ${texto.indexOf("ciência")}<br>
   Localização da palavra 'métodos':  ${texto.indexOf("métodos")}
   `);
  } 
  
- // EXERCICIO 9 - UTLIZE FLOAT PARA STRING COM DADOS DA VARIAVEL 
+ // EXERCICIO 9 - UTILIZE FLOAT PARA STRING COM DADOS DA VARIAVEL 
  function exercicio9(){
  let precoVinho = "150.50";
  console.log("Preço do vinho: ");
