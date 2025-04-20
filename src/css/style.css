@@ -20,7 +20,7 @@ h2 {
 .botoes {
     margin-top: 40px;
     display: flex;
-    flex-direction: column; /* 👈 isso coloca os botões em linha vertical */
+    flex-direction: column; 
     gap: 20px;
     align-items: flex-start;
   }
@@ -34,7 +34,7 @@ h2 {
     border-radius: 8px;
     cursor: pointer;
     transition: background-color 0.3s ease;
-    width: 250px; /* largura fixa para alinhamento */
+    width: 250px; 
   }
   
   .botoes button:hover {
